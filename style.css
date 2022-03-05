@@ -278,4 +278,14 @@ button:hover::before{
         height: 60px;
         margin-right: 350px;
     }
+    .attribution{
+    display: flex;
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    justify-content: center;
+    font-family: 'Manrope';
+    word-spacing: 1px;
+    color: rgb(255, 255, 255);
+}
 }
