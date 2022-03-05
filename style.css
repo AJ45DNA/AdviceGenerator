@@ -287,5 +287,6 @@ button:hover::before{
     font-family: 'Manrope';
     word-spacing: 1px;
     color: rgb(255, 255, 255);
-}
+    font-size: 18px;
+    }
 }
